@@ -4,7 +4,7 @@
 ![Capture](https://i.ibb.co/b2RkynH/main-screen.jpg)
 <br/>
 <br/>
-<b>Speaky, a project build and powered by Python and OpenCV, propose a body language estimation for the improve of the body language of the user.
+<b>Speaky, a project build and powered by Python and OpenCV, propose a body language estimation for the improvement of the body language of the user.
 <br/>
 Project done by Shai Ely, Maor Levi and Dorit Sachakov. All Rights Reserved.</b>
 
